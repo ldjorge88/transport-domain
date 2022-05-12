@@ -1,4 +1,4 @@
-package co.edu.uco.transport.domain.transportdomain;
+package co.edu.uco.transport.domain;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
